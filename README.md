@@ -15,6 +15,7 @@ With its seamless image recognition and data retrieval capabilities, this system
 * [Libraries and Tools](#libraries)
 * [Models](#models)
 * [Notebooks](#notebooks)
+* [Demo](#demo)
 
 # Datasets
   - Food-5K - https://www.kaggle.com/datasets/trolukovich/food5k-image-dataset 
@@ -49,5 +50,9 @@ Food-101 Dataset
 * Food_5K.ipynb
 * Food_101_Dataset_Classification.ipynb
 
+## Demo
 
+You can use demo image to try the application
+
+[azurewebsites](https://streamlitfoodclassifier.azurewebsites.net/)https://streamlitfoodclassifier.azurewebsites.net/
 
