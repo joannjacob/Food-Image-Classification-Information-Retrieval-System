@@ -21,12 +21,13 @@ With its seamless image recognition and data retrieval capabilities, this system
   - Food-101 - https://www.kaggle.com/datasets/kmader/food41
 
 Food-5K dataset Dataset
-1. Download the GTZAN dataset from https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification 
-2. Upload it into your drive. (Create a folder and upload the folder downloaded here. It should have the folder name "Data" which contains images_original, genres_original, features_3_sec.csv and features_30s.csv)
-3. Use the correct link to your drive in the required cells.
+1. Download the Food-5k dataset from https://www.kaggle.com/datasets/trolukovich/food5k-image-dataset.
+2. Create a folder in your drive and upload the data folder downloaded containing the validation, training, evaluation.
+3. Use the correct link to your drive in the required cells with the directory paths.
    
-FMA Dataset
-1. Download your Kaggle API file kaggle.json and upload into the colab by running the cells in the notebook. This is needed to download the dataset into the notebook.
+Food-101 Dataset
+1. Downloading the data from the Kaggle and loading it into the drive takes a long time and space, we are using Kaggle API to download it in the notebooks. https://www.kaggle.com/datasets/kmader/food41 .
+2. Download your Kaggle API file kaggle.json and upload into the colab by running the cells in the notebook. This is needed to download the dataset into the notebook.
 
 ## Libraries and Tools
 * Python 
